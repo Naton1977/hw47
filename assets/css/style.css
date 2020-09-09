@@ -1,0 +1,76 @@
+
+main{
+    font-family: Arial, sans-serif;
+    background-color: rgb(245,245,245);
+}
+
+
+.textmargin1{
+    padding: 10px;
+    margin-top: 8px;
+}
+.textmargin2{
+    padding: 15px;
+    margin-top: 4px;
+}
+
+.sizename1 {
+    text-align: right;
+    width: 110px;
+    height: 20px;
+}
+.sizename2 {
+    text-align: left;
+    width: 110px;
+    height: 20px;
+}
+.sizetext{
+    width: 400px;
+    height: 70px;
+}
+.linesize{
+    line-height: 60px;
+}
+.sizediv1{
+    margin-left: 170px;
+    height: 70px;
+}
+.sizediv2{
+    margin-right: 157px;
+    height: 70px;
+}
+.disp1{
+    float: left;
+}
+.disp2{
+    float: right;
+}
+
+.marg1{
+    margin-top: 20px;
+}
+
+.marg2{
+    margin-top: 10px;
+}
+.marg3{
+    margin-left: 30px;
+}
+.marg4{
+    margin-right: 30px;
+}
+.marg5{
+    margin-top: -10px;
+}
+.hourscolor{
+    font-size: small;
+    color: rgb(145,137,141);
+}
+.borderradius1{
+    border-radius: 12px 12px 12px 0;
+    background-color: rgb(255,182,193);
+}
+.borderradius2 {
+    border-radius: 12px 12px 0 12px;
+    background-color: rgb(173, 216, 230);
+}
